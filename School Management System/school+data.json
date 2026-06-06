@@ -1,0 +1,31 @@
+{
+    "Student": [
+        {
+            "name": "Yash Chintamani Tingare",
+            "age": 18,
+            "email": "yashtingare2007@gmail.com",
+            "parentemail": "chintamanitingare@gmail.com",
+            "roll_no": 1,
+            "grades": {
+                "Math": 90.0
+            }
+        },
+        {
+            "name": "Priyanka",
+            "age": 20,
+            "email": "chintamanitingre@gmail.com",
+            "parentemail": "yashtingare2007@gmail.com",
+            "roll_no": 2,
+            "grades": {}
+        }
+    ],
+    "Teacher": [
+        {
+            "name": "Kiran didi",
+            "age": 23,
+            "email": "kirandidi@gmail.com",
+            "emp_id": 11,
+            "subject": "Life"
+        }
+    ]
+}
