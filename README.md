@@ -2,6 +2,8 @@
 
 A Python-based school management system with a CLI and Streamlit web UI.
 
+("https://school-management-app-bfun5svfmwt8nqtutojunh.streamlit.app")
+
 ## 🚀 Run
 
 ```bash
