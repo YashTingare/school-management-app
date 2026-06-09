@@ -2,7 +2,7 @@
 
 A Pure Python-based school management system with a Command Line Interface and Streamlit web UI. Its a bacic python project for partice python for Data Sicence carrer. A School Management System  allows administrators to manage students, teachers, and academic records through an intuitive interface.
 
-Driect WEblink of Project:
+Driect Weblink of Project:
 ("https://school-management-app-bfun5svfmwt8nqtutojunh.streamlit.app")
 
 ## 🚀 Features
@@ -51,3 +51,13 @@ python main.py         # CLI(Command Line Interface)
 
 ## 🛠️ Stack
 Python · Streamlit · JSON
+
+## 🗺️ Roadmap
+
+- [ ] Attendance Management
+- [ ] Fee Management
+- [ ] Authentication System
+- [ ] Data Export (CSV/PDF)
+- [ ] Student Search
+- [ ] Teacher Assignment Module
+- [ ] Cloud Database Integration
